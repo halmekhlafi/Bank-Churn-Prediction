@@ -15,19 +15,6 @@ The goal is to **support proactive retention strategies** by identifying at-risk
 
 ---
 
-## 📁 Project Structure
-
-```
-bank-churn-prediction-ml/
-│
-├── BankChurn.ipynb           # Main Jupyter notebook with all logic
-├── churn_predictions.csv     # Exported predictions (for BI use)
-├── requirements.txt          # Python dependencies
-└── README.md                 # You're here!
-```
-
----
-
 ## 🧹 Data Preprocessing
 
 - Handled missing values
